@@ -8,6 +8,14 @@ body {
     line-height: 1.6;
   }
   
+  /* Showcase */
+#showcase{
+  margin: 0;
+  padding: 0;
+  
+}
+
+  /* Navigaion */
   nav {
     height: 40px;
     width: 100%;
